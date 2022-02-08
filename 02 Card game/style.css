@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+    color: purple;
+    background-color:lightcyan ;
+}
+
+h2{
+    color: brown;
+    background-color:wheat ;
+    margin: 30px;
+}
+
+.player p {
+    display: inline-block;
+    font-size: 28pt;
+    padding: 65px 45px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+
+    border: 2px solid black;
+    border-radius: 10px;
+
+    background-image: url("img/cards-border.png");
+    background-color: khaki;
+    background-size: 120px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.black_card {
+    color: black;
+}
+
+.red_card{
+   color: red;
+}

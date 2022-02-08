@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+    color: purple;
+}
+
+h2, h3 {
+    color: mediumorchid;
+}
+
+.image {
+
+    height: 385px;
+    float: left;
+    margin-top: 10px;
+    padding-right: 20px;
+}
+
+p, pre {
+    font-size: 18pt;
+    color: darkslateblue;
+}
+
+body {
+    background: lightblue;
+}
